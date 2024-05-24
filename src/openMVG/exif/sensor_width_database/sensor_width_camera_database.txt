@@ -2376,6 +2376,7 @@ iPhone 7;4.89
 iPhone 8 Plus;4.89
 iPhone 8;4.89
 iPhone SE;4.89
+iPhone SE (2nd generation); 4.89
 iPhone X;4.89
 iPhone XR;5.6
 iPhone XS Max;5.6
